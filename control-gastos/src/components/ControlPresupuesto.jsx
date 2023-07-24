@@ -48,7 +48,7 @@ const ControlPresupuesto = ({
       setIsValidPresupuesto(false);
     }
   };
-  //hkhjk test commit
+  //Dist folder added
   return (
     <div className="contenedor-presupuesto contenedor sombra dos-columnas">
       <div>
